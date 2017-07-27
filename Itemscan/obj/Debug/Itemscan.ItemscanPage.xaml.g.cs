@@ -12,15 +12,11 @@ namespace Itemscan {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/songji/University of Auckland/2017 MSA/Itemscan/Itemscan/ItemscanPage.xaml")]
-    public partial class ItemscanPage : global::Xamarin.Forms.ContentPage {
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Xamarin.Forms.ListView ScanItemList;
+    public partial class ItemscanPage : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(ItemscanPage));
-            ScanItemList = global::Xamarin.Forms.NameScopeExtensions.FindByName <global::Xamarin.Forms.ListView>(this, "ScanItemList");
         }
     }
 }

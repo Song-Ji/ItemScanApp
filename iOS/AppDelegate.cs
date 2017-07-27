@@ -16,6 +16,9 @@ namespace Itemscan.iOS
 
             LoadApplication(new App());
 
+            //Maps Initialization
+            Xamarin.FormsMaps.Init();
+
             return base.FinishedLaunching(app, options);
         }
     }
