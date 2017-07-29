@@ -11,7 +11,7 @@
 namespace Itemscan {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/songji/University of Auckland/2017 MSA/Itemscan/Itemscan/App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/songji/University of Auckland/2017 MSA/ItemScanApp/Itemscan/App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

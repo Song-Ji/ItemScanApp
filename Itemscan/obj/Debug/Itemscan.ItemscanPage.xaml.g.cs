@@ -11,7 +11,7 @@
 namespace Itemscan {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/songji/University of Auckland/2017 MSA/Itemscan/Itemscan/ItemscanPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/songji/University of Auckland/2017 MSA/ItemScanApp/Itemscan/ItemscanPage.xaml")]
     public partial class ItemscanPage : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

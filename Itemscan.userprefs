@@ -2,33 +2,14 @@
   <MonoDevelop.Ide.ItemProperties.Itemscan.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.16A850C5-751D-4DE6-BDBA-6EA5602213A2" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Itemscan/AzureTable.xaml.cs">
     <Files>
-      <File FileName="Droid/MainActivity.cs" Line="9" Column="18" />
-      <File FileName="Itemscan/ItemscanPage.xaml" Line="9" Column="14" />
       <File FileName="Itemscan/packages.config" Line="1" Column="1" />
-      <File FileName="Droid/Properties/AssemblyInfo.cs" Line="31" Column="1" />
-      <File FileName="Droid/Properties/AndroidManifest.xml" Line="9" Column="12" />
-      <File FileName="Droid/Resources/xml/file_paths.xml" Line="5" Column="9" />
-      <File FileName="Droid/MainApplication.cs" Line="1" Column="1" />
-      <File FileName="iOS/Info.plist" />
-      <File FileName="iOS/Entitlements.plist" />
-      <File FileName="iOS/LaunchScreen.storyboard" />
-      <File FileName="Itemscan/ItemscanPage.xaml.cs" Line="8" Column="23" />
-      <File FileName="Itemscan/App.xaml" Line="7" Column="1" />
-      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
-      <File FileName="Itemscan/Models/ScanItem.cs" Line="17" Column="2" />
+      <File FileName="Itemscan/ItemscanPage.xaml" Line="7" Column="45" />
+      <File FileName="Itemscan/ItemscanPage.xaml.cs" Line="9" Column="26" />
       <File FileName="Itemscan/AzureManager.cs" Line="54" Column="2" />
-      <File FileName="Droid/packages.config" Line="1" Column="1" />
-      <File FileName="Itemscan/Models/EvaluationModel.cs" Line="6" Column="15" />
-      <File FileName="Droid/Resources/values/styles.xml" Line="28" Column="1" />
-      <File FileName="Itemscan/App.xaml.cs" Line="8" Column="10" />
-      <File FileName="Itemscan/Properties/AssemblyInfo.cs" Line="28" Column="37" />
-      <File FileName="Droid/Assets/AboutAssets.txt" Line="1" Column="1" />
-      <File FileName="Droid/Resources/Resource.designer.cs" Line="1" Column="1" />
-      <File FileName="Itemscan/CustomVision.xaml" Line="13" Column="15" />
-      <File FileName="Itemscan/CustomVision.xaml.cs" Line="52" Column="33" />
-      <File FileName="Itemscan/AzureTable.xaml" Line="24" Column="15" />
-      <File FileName="Itemscan/AzureTable.xaml.cs" Line="14" Column="10" />
-      <File FileName="Itemscan/obj/Debug/Itemscan.AzureTable.xaml.g.cs" Line="24" Column="22" />
+      <File FileName="Itemscan/App.xaml" Line="7" Column="1" />
+      <File FileName="Itemscan/AzureTable.xaml" Line="2" Column="164" />
+      <File FileName="Itemscan/CustomVision.xaml" Line="17" Column="15" />
+      <File FileName="Itemscan/AzureTable.xaml.cs" Line="27" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

@@ -11,7 +11,7 @@
 namespace Itemscan {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/songji/University of Auckland/2017 MSA/Itemscan/Itemscan/AzureTable.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/songji/University of Auckland/2017 MSA/ItemScanApp/Itemscan/AzureTable.xaml")]
     public partial class AzureTable : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
